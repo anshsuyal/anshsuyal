@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Ansh 👋<br>I'm a passionate BCA student (3rd Year) and aspiring Software Developer focused on building real-world projects and improving my problem-solving skills.<br><br>💡 I enjoy working on:<br><br>Full Stack Web Development<br>Real-Time Applications (like chat apps 💬)<br>UI/UX Design improvements<br>Learning new technologies and AI tools<br>🚀 Currently, I’m:<br>Preparing for software developer placements<br>Building projects using React.js, Node.js, and modern web technologies<br>Strengthening my Data Structures & Algorithms<br>Exploring system design basics & backend architecture<br>🎯 My Goal<br><br>To become a skilled developer who can build scalable, high-performance applications and solve real-world problems efficiently.<br><br>🛠️ Tech Stack & Skills<br>🌐 Frontend<br>HTML5, CSS3, JavaScript (ES6+)<br>React.js<br>Responsive Design<br>Tailwind CSS / Bootstrap<br>DOM Manipulation<br>⚙️ Backend<br>Node.js<br>Express.js<br>REST API Development<br>Authentication (JWT, Sessions)<br>🗄️ Database<br>MongoDB<br>Mongoose<br>Basic SQL (MySQL)<br>🔧 Tools & Technologies<br>Git & GitHub<br>VS Code<br>Postman (API Testing)<br>Chrome DevTools<br>🧠 Core Concepts<br>Data Structures & Algorithms<br>OOPs (Object-Oriented Programming)<br>Asynchronous JavaScript (Promises, Async/Await)<br>MVC Architecture<br>Basic System Design<br>📈 Always learning, building, and improving.
 
-<!--
-**anshsuyal/anshsuyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anshsuyal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anshsuyal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshsuyal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=anshsuyal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
