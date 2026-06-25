@@ -98,11 +98,11 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: www.linkedin.com/in/ansh-sharma-14072005w22
 
-🌐 Portfolio: Your Portfolio URL
+🌐 Portfolio: anshusuyalportfolio.vercel.app
 
-📧 Email: Your Email
+📧 Email: sharmaansh9386@gmail.com
 
 💻 GitHub: https://github.com/anshsuyal
 
