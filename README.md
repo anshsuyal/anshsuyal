@@ -8,11 +8,39 @@ I enjoy transforming ideas into real-world products using modern web technologie
 💡 Interested in Software Engineering, Web Development, and Problem Solving
 🎯 Goal: Secure a Software Developer role and contribute to impactful products
 ⚡ Fun Fact: I enjoy solving coding challenges and turning complex problems into simple solutions
-🛠️ Tech stack 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,git,github,tailwind,html,css,postman,aws,vscode,cpp,py" />
-</div>
+🛠️ Tech Stack
+Frontend
 
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Socket.io
+Database
+
+* MongoDB
+* MySQL
+Cloud & Tools
+
+* Git
+* GitHub
+* Postman
+* AWS
+* VS Code
+Programming Languages
+
+* JavaScript
+* TypeScript
+* C++
+* Python
 📈 Current Focus
 ✅ Advanced React Patterns
 ✅ Backend Development
