@@ -164,18 +164,6 @@ I enjoy converting ideas into real-world products.
 
 ---
 
-# 💻 Coding Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshsuyal&theme=github_dark"/>
-
----
-
-# 📊 Weekly Development Breakdown
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshsuyal"/>
-
----
-
 # 👀 Visitors
 
 <p align="center">
