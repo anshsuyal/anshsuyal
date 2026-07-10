@@ -108,17 +108,6 @@ I enjoy converting ideas into real-world products.
 
 ---
 
-# 🏆 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚖 TaxiWeb | Premium Taxi Booking Platform | MERN |
-| 📋 Task Scheduler | Task Management Application | Node + Express + MySQL |
-| 🌐 Portfolio Website | Modern Animated Portfolio | React |
-| 💬 Real-time Chat | Socket.IO Chat Application | MERN |
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
