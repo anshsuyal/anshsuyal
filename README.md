@@ -7,7 +7,7 @@ Hi 👋 I'm Ansh Suyal
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | Software Engineer
+🚀 Full Stack Developer | MERN Stack Developer | Software Engineer | Ethical hacker
 </h3>
 
 <p align="center">
